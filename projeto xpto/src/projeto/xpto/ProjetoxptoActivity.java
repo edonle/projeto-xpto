@@ -1,3 +1,4 @@
+/* Teste Fred */
 package projeto.xpto;
 
 import android.app.Activity;
